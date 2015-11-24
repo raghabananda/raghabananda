@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Attendance">
+    <Position X="1.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>App_Code\Attendance.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Complain">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAEAgAAAAAAEAAAAABAAAAAAAAAADAAAAIAAAAAA=</HashCode>
+      <FileName>App_Code\BusinessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgAAACAAAAAAAACAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\BusinessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbLayer" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAQAAQkAQAAAAEAAAABEAAQAEAAAABAEEAA=</HashCode>
+      <FileName>App_Code\DbLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgCAAAAACAAQAAAgQABgAAQAAAmACAAA=</HashCode>
+      <FileName>App_Code\DbLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAEAAAAAAAAAAgAQAQAAAAAAgAAAAAICAQAAA=</HashCode>
+      <FileName>App_Code\DbLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ISubject">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>App_Code\ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBranch">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\IBranch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
